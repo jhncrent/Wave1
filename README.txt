@@ -1,4 +1,4 @@
-I’m glad to be joining the team as a Cloud Engineer.
+I’m glad to be joining the team as a Azure Cloud Engineer.
 
 My background is in cloud computing and IT infrastructure, with hands-on experience in Microsoft Azure and Oracle environments. I’ve supported cloud, network, and system operations, worked on troubleshooting technical issues, improved processes, and helped manage identity and access solutions to keep environments secure and efficient.
 
